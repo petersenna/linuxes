@@ -18,8 +18,11 @@ GIT=$PWD/linux
 mod_file_count=$(git status |grep "modified: "|wc -l)
 if [ $mod_file_count -gt 0 ];then
 	echo Git is not clean, there are changes to clean or commit
-	echo Fix that and run me again
-	exit
+	echo
+	echo Ctrl-C now to stop me from undoing all uncommited changes
+	echo
+	echo Press enter to continue.
+	read 
 fi
 
 # rdfind is probably available on your software repository
@@ -30,11 +33,13 @@ rdfind -makehardlinks true .
 # it is not that important...
 rm -f results.txt
 
+
 # This is needed as some scripts and text files has different
 # permissions on different versions
+
+cd .. # Do not delete me!
+
 echo Fixing minor issues caused by hard linking dupes...
-for file in $(git status |grep modified|grep "src/v"|tr -s " "|cut -d " " -f 2);do
-	echo $file
-	git checkout -- $file
-done
-cd ..
+file_list=$(git status |grep modified|grep "src/v"|tr -s " "|cut -d " " -f 2|tr "\n" " ")
+echo $file_list
+git checkout -- $file_list
