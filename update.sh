@@ -2,20 +2,23 @@
 # Peter Senna Tschudin <peter.senna@gmail.com>
 # This script clones Linus tree and checkout each main version in a separate folder
 #
-# Linus tree will be at ../linux
 
-
+# Where the source code will be
 DIR=$PWD/src
+
+# Linus tree
 GIT=$PWD/linux
+
+# Folder to save SLOCCount statistics
 SLC=$PWD/sloccount
 
-if [ ! -d $GIT ];then
-        git clone https://kernel.googlesource.com/pub/scm/linux/kernel/git/torvalds/linux
+if [ -f $GIT/MAINTAINERS ];then
+	git submodule update
+else
+	git submodule init
 fi
 
 cd $GIT
-git remote update
-
 for tag in $(git tag |cut -d "-" -f 1|sort -u);do
         echo $tag
 
@@ -25,15 +28,15 @@ for tag in $(git tag |cut -d "-" -f 1|sort -u);do
                 echo Getting $tag...
 
                 mkdir -p $DIR/$tag
+
                 git --work-tree=$DIR/$tag checkout $tag -- .
-                ret=$?
-                if [ $ret != 0 ];then
-                        echo Something went wrong for the tag $tag. This may be normal for the last tag...
+                if [ $? == 0 ];then
+			echo Running sloccount for $tag
+			sloccount $DIR/$tag > $SLC/$tag
+		else
+                        echo Something went wrong with $tag. This may be normal for the last tag...
                         echo Deleting $DIR/$tag
                         rm -rf $DIR/$tag
-		else
-			echo Running sloccount on $tag
-			sloccount $DIR/$tag > $SLC/$tag
                 fi
         fi
 done
