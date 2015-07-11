@@ -15,7 +15,15 @@ DIR=$PWD/src
 # Linus tree
 GIT=$PWD/linux
 
+mod_file_count=$(git status |grep "modified: "|wc -l)
+if [ $mod_file_count -gt 0 ];then
+	echo Git is not clean, there are changes to clean or commit
+	echo Fix that and run me again
+	exit
+fi
+
 # rdfind is probably available on your software repository
+cd $DIR
 rdfind -makehardlinks true .
 
 # This is a text file created by rdfind, thanks to git
@@ -24,7 +32,9 @@ rm -f results.txt
 
 # This is needed as some scripts and text files has different
 # permissions on different versions
-git checkout -- .
-
-cd $GIT
-git checkout -- .
+echo Fixing minor issues caused by hard linking dupes...
+for file in $(git status |grep modified|grep "src/v"|tr -s " "|cut -d " " -f 2);do
+	echo $file
+	git checkout -- $file
+done
+cd ..
