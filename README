@@ -3,6 +3,8 @@ with something like:
 
 $ git --work-tree=./src/v2.6.11 checkout v2.6.11 -- .
 
+The total size is around 28G for all versions between v2.6.11 and v4.1.
+
 Folders and files:
 
 linux     - Linus tree as a git submodule
