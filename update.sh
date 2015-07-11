@@ -16,6 +16,7 @@ if [ -f $GIT/MAINTAINERS ];then
 	git submodule update
 else
 	git submodule init
+	git submodule update
 fi
 
 cd $GIT
