@@ -3,18 +3,25 @@ with something like:
 
 $ git --work-tree=./src/v2.6.11 checkout v2.6.11 -- .
 
-The total size is around 28G for all versions between v2.6.11 and v4.1.
+The total size is around 25G for all versions between v2.6.11 and v4.1.
+But you can reduce it to 15G by running hard-link-dupes.sh after cloning
+the repository. Read hard-link-dupes.sh for some warnings.
 
 Folders and files:
 
 linux     - Linus tree as a git submodule
 
 sloccount - one text file with output from sloccount for each Linux version
-            since v2.6.11 It takes a lot of time to generate the files and
-            it is not easy to run sloccount in parallel
+            since v2.6.11. The files are here as it takes a lot of time to
+            generate the files and  it is not easy to run sloccount in
+            parallel.
 
-src       - one folder for each Linux version since v2.6.11
+src       - one folder for each Linux version since v2.6.11.
 
-README    - This file
+README    - This file.
 
-update.sh - script that keep everuthing up to date
+hard-link-dupes.sh - script that convert duplicate files into hard links.
+                     Can save 10G+ of disk space but read the warnings on
+                     the scripts before using it.
+
+update.sh - script that keep everuthing up to date.

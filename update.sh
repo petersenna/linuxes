@@ -41,3 +41,6 @@ for tag in $(git tag |cut -d "-" -f 1|sort -u);do
                 fi
         fi
 done
+
+# This may be a good place to call it
+# ./hard-link-dupes.sh
