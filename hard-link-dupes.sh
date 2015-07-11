@@ -8,6 +8,10 @@
 # git, as changing one of the files that are hard linked will affect
 # all others. But git status will show you when this happens and it
 # is easy to fix the mess.
+#
+# git is not aware of hard links, so you may need to run this script
+# again after something like git checkout -- . as this command may
+# recreate all files
 
 # Where the source code will be
 DIR=$PWD/src
