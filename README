@@ -1,0 +1,14 @@
+For each Linux version, the source code is extracted from Linus git tree
+with something like:
+
+$ git --work-tree=./src/v2.6.11 checkout v2.6.11 -- .
+
+Folders and files:
+
+src       - one folder for each Linux version since v2.6.11
+
+sloccount - one text file with output from sloccount for each Linux version
+            since v2.6.11 It takes a lot of time to generate the files and
+            it is not easy to run sloccount in parallel
+
+update.sh - script that keep everuthing up to date

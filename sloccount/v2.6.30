@@ -1,0 +1,93 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/v2.6.30//COPYING to top_dir
+Adding /tmp/linuxes/src/v2.6.30//CREDITS to top_dir
+Creating filelist for Documentation
+Adding /tmp/linuxes/src/v2.6.30//Kbuild to top_dir
+Adding /tmp/linuxes/src/v2.6.30//MAINTAINERS to top_dir
+Adding /tmp/linuxes/src/v2.6.30//Makefile to top_dir
+Adding /tmp/linuxes/src/v2.6.30//README to top_dir
+Adding /tmp/linuxes/src/v2.6.30//REPORTING-BUGS to top_dir
+Creating filelist for arch
+Creating filelist for block
+Creating filelist for crypto
+Creating filelist for drivers
+Creating filelist for firmware
+Creating filelist for fs
+Creating filelist for include
+Creating filelist for init
+Creating filelist for ipc
+Creating filelist for kernel
+Creating filelist for lib
+Creating filelist for mm
+Creating filelist for net
+Creating filelist for samples
+Creating filelist for scripts
+Creating filelist for security
+Creating filelist for sound
+Creating filelist for usr
+Creating filelist for virt
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Warning: in arch, number of duplicates=215
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+3988948 drivers         ansic=3984350,yacc=1688,asm=1306,perl=808,lex=779,
+                        sh=17
+1448814 arch            ansic=1230986,asm=216863,sh=650,pascal=116,awk=96,
+                        python=45,sed=30,perl=28
+614815  fs              ansic=614787,sh=28
+396695  net             ansic=396695
+372720  sound           ansic=372537,asm=183
+225005  include         ansic=223410,cpp=1558,asm=37
+88379   kernel          ansic=88074,perl=305
+39291   mm              ansic=39291
+34866   crypto          ansic=34866
+30774   security        ansic=30774
+30169   scripts         ansic=18266,perl=5866,cpp=1791,sh=1479,yacc=1274,
+                        lex=1045,python=448
+19985   lib             ansic=19985
+10580   block           ansic=10580
+8257    Documentation   ansic=6112,sh=1013,perl=914,lisp=218
+5384    ipc             ansic=5384
+3147    virt            ansic=3147
+2258    init            ansic=2258
+1865    firmware        asm=1660,ansic=205
+837     samples         ansic=837
+521     usr             ansic=513,asm=8
+0       top_dir         (none)
+
+
+Totals grouped by language (dominant language first):
+ansic:      7083057 (96.72%)
+asm:         220057 (3.00%)
+perl:          7921 (0.11%)
+cpp:           3349 (0.05%)
+sh:            3187 (0.04%)
+yacc:          2962 (0.04%)
+lex:           1824 (0.02%)
+python:         493 (0.01%)
+lisp:           218 (0.00%)
+pascal:         116 (0.00%)
+awk:             96 (0.00%)
+sed:             30 (0.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 7,323,310
+Development Effort Estimate, Person-Years (Person-Months) = 2,285.46 (27,425.47)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 10.12 (121.46)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 225.80
+Total Estimated Cost to Develop                           = $ 308,733,967
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

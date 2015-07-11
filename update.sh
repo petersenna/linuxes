@@ -5,14 +5,11 @@
 # Linus tree will be at ../linux
 
 
-DIR=$PWD
-GIT=$PWD/../linux
+DIR=$PWD/src
+GIT=$PWD/linux
+SLC=$PWD/sloccount
 
 if [ ! -d $GIT ];then
-
-	# This assumes that the Linux main git is/will be at ../linux
-	cd ..
-
         git clone https://kernel.googlesource.com/pub/scm/linux/kernel/git/torvalds/linux
 fi
 
@@ -34,6 +31,9 @@ for tag in $(git tag |cut -d "-" -f 1|sort -u);do
                         echo Something went wrong for the tag $tag. This may be normal for the last tag...
                         echo Deleting $DIR/$tag
                         rm -rf $DIR/$tag
+		else
+			echo Running sloccount on $tag
+			sloccount $DIR/$tag > $SLC/$tag
                 fi
         fi
 done
