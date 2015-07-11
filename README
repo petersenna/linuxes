@@ -3,8 +3,8 @@ with something like:
 
 $ git --work-tree=./src/v2.6.11 checkout v2.6.11 -- .
 
-The total size is around 25G for all versions between v2.6.11 and v4.1.
-But you can reduce it to 15G by running hard-link-dupes.sh after cloning
+The total size is around 24G for all versions between v2.6.11 and v4.1.
+But you can reduce it to 11G by running hard-link-dupes.sh after cloning
 the repository. Read hard-link-dupes.sh for some warnings.
 
 Folders and files:
