@@ -5,8 +5,8 @@
 #
 # This script can save 10GB+ of disk space by replacing 1.5M+
 # duplicated files with hard links. This would be dangerous without
-# git, as changing one of the files that are hard linked will affect
-# all others. But git status will show you when this happens and it
+# git, as changing one of the files that are hard linked could affect
+# the others. But git status will show you when this happens and it
 # is easy to fix the mess.
 #
 # git is not aware of hard links, so you may need to run this script
