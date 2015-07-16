@@ -38,7 +38,7 @@ rdfind -makehardlinks true .
 rm -f results.txt
 
 
-# This is needed as some scripts and text files has different
+# This is needed as some scripts and text files have different
 # permissions on different versions
 
 cd .. # Do not delete me!
