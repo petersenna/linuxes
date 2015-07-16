@@ -10,7 +10,7 @@
 # is easy to fix the mess.
 #
 # git is not aware of hard links, so you may need to run this script
-# again after something like git checkout -- . as this command may
+# again after something like git checkout -- . as git may
 # recreate all files
 
 # Where the source code will be
@@ -38,7 +38,7 @@ rdfind -makehardlinks true .
 rm -f results.txt
 
 
-# This is needed as some scripts and text files has different
+# This is needed as some scripts and text files have different
 # permissions on different versions
 
 cd .. # Do not delete me!
