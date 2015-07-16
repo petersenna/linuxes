@@ -10,7 +10,7 @@
 # is easy to fix the mess.
 #
 # git is not aware of hard links, so you may need to run this script
-# again after something like git checkout -- . as this command may
+# again after something like git checkout -- . as git may
 # recreate all files
 
 # Where the source code will be
