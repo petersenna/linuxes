@@ -1,0 +1,426 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c501.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c501.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c503.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c503.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c505.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c505.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c507.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c509.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c515.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c523.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c523.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c527.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c527.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/3c59x.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/7990.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/7990.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/8139cp.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/8139too.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/82596.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/8390.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/8390.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/8390p.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/Kconfig to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/LICENSE.SRC to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/Makefile to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/Space.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/a2065.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/a2065.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ac3200.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/acenic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/acenic.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/amd8111e.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/amd8111e.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/apne.c to top_dir
+Creating filelist for appletalk
+Creating filelist for arcnet
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ariadne.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ariadne.h to top_dir
+Creating filelist for arm
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/at1700.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/atarilance.c to top_dir
+Creating filelist for atl1c
+Creating filelist for atl1e
+Creating filelist for atlx
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/atp.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/atp.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/au1000_eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/au1000_eth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ax88796.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/b44.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/b44.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bcm63xx_enet.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bcm63xx_enet.h to top_dir
+Creating filelist for benet
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bfin_mac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bfin_mac.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bmac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bmac.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bnx2.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bnx2.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bnx2_fw.h to top_dir
+Creating filelist for bnx2x
+Creating filelist for bonding
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/bsd_comp.c to top_dir
+Creating filelist for caif
+Creating filelist for can
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cassini.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cassini.h to top_dir
+Creating filelist for chelsio
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cnic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cnic.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cnic_defs.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cnic_if.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cpmac.c to top_dir
+Creating filelist for cris
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cs89x0.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/cs89x0.h to top_dir
+Creating filelist for cxgb3
+Creating filelist for cxgb4
+Creating filelist for cxgb4vf
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/davinci_emac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/de600.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/de600.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/de620.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/de620.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/declance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/defxx.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/defxx.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/depca.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/depca.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dl2k.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dl2k.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dm9000.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dm9000.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dnet.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dnet.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/dummy.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/e100.c to top_dir
+Creating filelist for e1000
+Creating filelist for e1000e
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/e2100.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/eepro.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/eexpress.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/eexpress.h to top_dir
+Creating filelist for ehea
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/enc28j60.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/enc28j60_hw.h to top_dir
+Creating filelist for enic
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/epic100.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/eql.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/es3210.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/eth16i.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ethoc.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ewrk3.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ewrk3.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fealnx.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fec.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fec.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fec_mpc52xx.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fec_mpc52xx.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fec_mpc52xx_phy.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/forcedeth.c to top_dir
+Creating filelist for fs_enet
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fsl_pq_mdio.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/fsl_pq_mdio.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/gianfar.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/gianfar.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/gianfar_ethtool.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/gianfar_sysfs.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/greth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/greth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hamachi.c to top_dir
+Creating filelist for hamradio
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hp-plus.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hp.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hp100.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hp100.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hplance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hplance.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/hydra.c to top_dir
+Creating filelist for ibm_newemac
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ibmlana.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ibmlana.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ibmveth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ibmveth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ifb.c to top_dir
+Creating filelist for igb
+Creating filelist for igbvf
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ioc3-eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ipg.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ipg.h to top_dir
+Creating filelist for irda
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/iseries_veth.c to top_dir
+Creating filelist for ixgb
+Creating filelist for ixgbe
+Creating filelist for ixgbevf
+Creating filelist for ixp2000
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/jazzsonic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/jme.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/jme.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/korina.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ks8842.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ks8851.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ks8851.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ks8851_mll.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ksz884x.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lasi_82596.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lib82596.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lib8390.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ll_temac.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ll_temac_main.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ll_temac_mdio.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lne390.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/loopback.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/lp486e.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mac8390.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mac89x0.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macb.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macb.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mace.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mace.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macmace.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macsonic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macvlan.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/macvtap.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mdio.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/meth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/meth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mii.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mipsnet.c to top_dir
+Creating filelist for mlx4
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mv643xx_eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/mvme147.c to top_dir
+Creating filelist for myri10ge
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/myri_sbus.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/myri_sbus.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/natsemi.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ne-h8300.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ne.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ne2.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ne2k-pci.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ne3210.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/netconsole.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/netx-eth.c to top_dir
+Creating filelist for netxen
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni5010.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni5010.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni52.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni52.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni65.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ni65.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/niu.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/niu.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ns83820.c to top_dir
+Creating filelist for octeon
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pasemi_mac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pasemi_mac.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pasemi_mac_ethtool.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pci-skeleton.c to top_dir
+Creating filelist for pcmcia
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pcnet32.c to top_dir
+Creating filelist for phy
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/plip.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_async.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_deflate.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_generic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_mppe.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_mppe.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ppp_synctty.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pppoe.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pppox.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ps3_gelic_net.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ps3_gelic_net.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ps3_gelic_wireless.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ps3_gelic_wireless.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/pxa168_eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/qla3xxx.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/qla3xxx.h to top_dir
+Creating filelist for qlcnic
+Creating filelist for qlge
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/r6040.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/r8169.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/rionet.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/rrunner.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/rrunner.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/s2io-regs.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/s2io.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/s2io.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/s6gmac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sb1000.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sb1250-mac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sc92031.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/seeq8005.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/seeq8005.h to top_dir
+Creating filelist for sfc
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sgiseeq.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sgiseeq.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sh_eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sh_eth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sis190.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sis900.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sis900.h to top_dir
+Creating filelist for skfp
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/skge.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/skge.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sky2.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sky2.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/slhc.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/slip.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/slip.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc-mca.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc-ultra.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc-ultra32.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc911x.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc911x.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc9194.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc9194.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc91x.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smc91x.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smsc911x.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smsc911x.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smsc9420.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/smsc9420.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sni_82596.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sonic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sonic.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/spider_net.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/spider_net.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/spider_net_ethtool.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/starfire.c to top_dir
+Creating filelist for stmmac
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/stnic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sun3_82586.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sun3_82586.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sun3lance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunbmac.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunbmac.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sundance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sungem.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sungem.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sungem_phy.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sungem_phy.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunhme.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunhme.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunlance.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunqe.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunqe.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunvnet.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/sunvnet.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tc35815.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tehuti.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tehuti.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tg3.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tg3.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tlan.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tlan.h to top_dir
+Creating filelist for tokenring
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tsi108_eth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tsi108_eth.h to top_dir
+Creating filelist for tulip
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/tun.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/typhoon.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/typhoon.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ucc_geth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ucc_geth.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/ucc_geth_ethtool.c to top_dir
+Creating filelist for usb
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/veth.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/via-rhine.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/via-velocity.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/via-velocity.h to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/virtio_net.c to top_dir
+Creating filelist for vmxnet3
+Creating filelist for vxge
+Creating filelist for wan
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/wd.c to top_dir
+Creating filelist for wimax
+Creating filelist for wireless
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/xen-netfront.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/xilinx_emaclite.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/xtsonic.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/yellowfin.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/znet.c to top_dir
+Adding /tmp/linuxes/src/v2.6.36/drivers/net/zorro8390.c to top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+289047  wireless        ansic=289047
+287903  top_dir         ansic=287903
+28032   wan             ansic=27344,asm=688
+23534   bnx2x           ansic=23534
+21422   irda            ansic=21422
+17038   sfc             ansic=17038
+16611   ixgbe           ansic=16611
+16227   usb             ansic=16227
+15986   vxge            ansic=15986
+15526   cxgb3           ansic=15526
+15427   e1000e          ansic=15427
+14928   tokenring       ansic=14928
+14873   skfp            ansic=14873
+14720   tulip           ansic=14720
+11476   e1000           ansic=11476
+11300   igb             ansic=11300
+10660   cxgb4           ansic=10660
+10084   can             ansic=10084
+9824    mlx4            ansic=9824
+9593    chelsio         ansic=9593
+9152    pcmcia          ansic=9152
+8785    qlge            ansic=8785
+8590    netxen          ansic=8590
+8505    qlcnic          ansic=8505
+8241    hamradio        ansic=8241
+8156    bonding         ansic=8156
+7744    arm             ansic=7744
+6933    wimax           ansic=6933
+6213    atlx            ansic=6213
+5744    ehea            ansic=5744
+5597    benet           ansic=5597
+5083    ibm_newemac     ansic=5083
+4939    phy             ansic=4939
+4758    enic            ansic=4758
+4283    cxgb4vf         ansic=4283
+4194    ixgb            ansic=4194
+4145    atl1c           ansic=4145
+3969    ixgbevf         ansic=3969
+3702    stmmac          ansic=3702
+3673    atl1e           ansic=3673
+3443    myri10ge        ansic=3443
+3243    igbvf           ansic=3243
+3227    vmxnet3         ansic=3227
+3100    arcnet          ansic=3100
+2480    appletalk       ansic=2480
+2456    fs_enet         ansic=2456
+1225    cris            ansic=1225
+1115    caif            ansic=1115
+1045    ixp2000         ansic=1045
+859     octeon          ansic=859
+
+
+Totals grouped by language (dominant language first):
+ansic:       998122 (99.93%)
+asm:            688 (0.07%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 998,810
+Development Effort Estimate, Person-Years (Person-Months) = 282.15 (3,385.85)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 4.57 (54.85)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 61.72
+Total Estimated Cost to Develop                           = $ 38,115,239
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

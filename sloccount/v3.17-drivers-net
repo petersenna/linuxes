@@ -1,0 +1,105 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/Kconfig to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/LICENSE.SRC to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/Makefile to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/Space.c to top_dir
+Creating filelist for appletalk
+Creating filelist for arcnet
+Creating filelist for bonding
+Creating filelist for caif
+Creating filelist for can
+Creating filelist for cris
+Creating filelist for dsa
+Adding /tmp/linuxes/src/v3.17/drivers/net/dummy.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/eql.c to top_dir
+Creating filelist for ethernet
+Creating filelist for fddi
+Creating filelist for hamradio
+Creating filelist for hippi
+Creating filelist for hyperv
+Creating filelist for ieee802154
+Adding /tmp/linuxes/src/v3.17/drivers/net/ifb.c to top_dir
+Creating filelist for irda
+Adding /tmp/linuxes/src/v3.17/drivers/net/loopback.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/macvlan.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/macvtap.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/mdio.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/mii.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/netconsole.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/nlmon.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/ntb_netdev.c to top_dir
+Creating filelist for phy
+Creating filelist for plip
+Creating filelist for ppp
+Adding /tmp/linuxes/src/v3.17/drivers/net/rionet.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/sb1000.c to top_dir
+Creating filelist for slip
+Adding /tmp/linuxes/src/v3.17/drivers/net/sungem_phy.c to top_dir
+Creating filelist for team
+Adding /tmp/linuxes/src/v3.17/drivers/net/tun.c to top_dir
+Creating filelist for usb
+Adding /tmp/linuxes/src/v3.17/drivers/net/veth.c to top_dir
+Adding /tmp/linuxes/src/v3.17/drivers/net/virtio_net.c to top_dir
+Creating filelist for vmxnet3
+Adding /tmp/linuxes/src/v3.17/drivers/net/vxlan.c to top_dir
+Creating filelist for wan
+Creating filelist for wimax
+Creating filelist for wireless
+Creating filelist for xen-netback
+Adding /tmp/linuxes/src/v3.17/drivers/net/xen-netfront.c to top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+751736  ethernet        ansic=751736
+673570  wireless        ansic=673570
+26684   usb             ansic=26684
+25673   can             ansic=25673
+21522   wan             ansic=20833,asm=689
+21365   irda            ansic=21365
+17712   fddi            ansic=17712
+14497   top_dir         ansic=14497
+10234   phy             ansic=10234
+9380    bonding         ansic=9380
+8239    hamradio        ansic=8239
+6547    ppp             ansic=6547
+6127    wimax           ansic=6127
+3812    vmxnet3         ansic=3812
+3328    arcnet          ansic=3328
+3179    team            ansic=3179
+3143    ieee802154      ansic=3143
+3093    hyperv          ansic=3093
+2898    xen-netback     ansic=2898
+2726    caif            ansic=2726
+2474    appletalk       ansic=2474
+1863    hippi           ansic=1863
+1553    slip            ansic=1553
+1219    cris            ansic=1219
+1105    dsa             ansic=1105
+1014    plip            ansic=1014
+
+
+Totals grouped by language (dominant language first):
+ansic:      1624004 (99.96%)
+asm:            689 (0.04%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 1,624,693
+Development Effort Estimate, Person-Years (Person-Months) = 470.26 (5,643.14)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 5.55 (66.61)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 84.72
+Total Estimated Cost to Develop                           = $ 63,525,998
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
