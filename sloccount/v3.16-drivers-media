@@ -1,0 +1,64 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/v3.16/drivers/media/Kconfig to top_dir
+Adding /tmp/linuxes/src/v3.16/drivers/media/Makefile to top_dir
+Creating filelist for common
+Creating filelist for dvb-core
+Creating filelist for dvb-frontends
+Creating filelist for firewire
+Creating filelist for i2c
+Adding /tmp/linuxes/src/v3.16/drivers/media/media-device.c to top_dir
+Adding /tmp/linuxes/src/v3.16/drivers/media/media-devnode.c to top_dir
+Adding /tmp/linuxes/src/v3.16/drivers/media/media-entity.c to top_dir
+Creating filelist for mmc
+Creating filelist for parport
+Creating filelist for pci
+Creating filelist for platform
+Creating filelist for radio
+Creating filelist for rc
+Creating filelist for tuners
+Creating filelist for usb
+Creating filelist for v4l2-core
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+184336  usb             ansic=184336
+126690  pci             ansic=126690
+126150  dvb-frontends   ansic=126150
+103326  platform        ansic=103326
+66677   i2c             ansic=66677
+26698   tuners          ansic=26698
+23354   rc              ansic=23354
+16263   radio           ansic=16263
+15578   v4l2-core       ansic=15578
+12891   common          ansic=12891
+8680    dvb-core        ansic=8680
+3096    parport         ansic=3096
+2338    firewire        ansic=2338
+886     top_dir         ansic=886
+241     mmc             ansic=241
+
+
+Totals grouped by language (dominant language first):
+ansic:       717204 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 717,204
+Development Effort Estimate, Person-Years (Person-Months) = 199.28 (2,391.31)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 4.01 (48.06)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 49.75
+Total Estimated Cost to Develop                           = $ 26,919,467
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

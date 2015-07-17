@@ -1,0 +1,46 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/v3.2/drivers/media/Kconfig to top_dir
+Adding /tmp/linuxes/src/v3.2/drivers/media/Makefile to top_dir
+Creating filelist for common
+Creating filelist for dvb
+Adding /tmp/linuxes/src/v3.2/drivers/media/media-device.c to top_dir
+Adding /tmp/linuxes/src/v3.2/drivers/media/media-devnode.c to top_dir
+Adding /tmp/linuxes/src/v3.2/drivers/media/media-entity.c to top_dir
+Creating filelist for radio
+Creating filelist for rc
+Creating filelist for video
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+377928  video           ansic=377928
+169470  dvb             ansic=169470
+22011   common          ansic=22011
+18921   rc              ansic=18921
+14356   radio           ansic=14356
+720     top_dir         ansic=720
+
+
+Totals grouped by language (dominant language first):
+ansic:       603406 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 603,406
+Development Effort Estimate, Person-Years (Person-Months) = 166.21 (1,994.58)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.74 (44.86)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 44.46
+Total Estimated Cost to Develop                           = $ 22,453,380
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
