@@ -1,0 +1,120 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v3.18/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v3.18/drivers/staging/Makefile to top_dir
+Creating filelist for android
+Creating filelist for bcm
+Creating filelist for board
+Creating filelist for comedi
+Creating filelist for cptm1217
+Creating filelist for dgap
+Creating filelist for dgnc
+Creating filelist for emxx_udc
+Creating filelist for ft1000
+Creating filelist for fwserial
+Creating filelist for gdm724x
+Creating filelist for gdm72xx
+Creating filelist for goldfish
+Creating filelist for gs_fpgaboot
+Creating filelist for iio
+Creating filelist for imx-drm
+Creating filelist for line6
+Creating filelist for lustre
+Creating filelist for media
+Creating filelist for mt29f_spinand
+Creating filelist for netlogic
+Creating filelist for nvec
+Creating filelist for octeon
+Creating filelist for octeon-usb
+Creating filelist for olpc_dcon
+Creating filelist for ozwpan
+Creating filelist for panel
+Creating filelist for rtl8188eu
+Creating filelist for rtl8192e
+Creating filelist for rtl8192u
+Creating filelist for rtl8712
+Creating filelist for rtl8723au
+Creating filelist for rts5208
+Creating filelist for skein
+Creating filelist for slicoss
+Creating filelist for speakup
+Adding /tmp/linuxes/src/./v3.18/drivers/staging/staging.c to top_dir
+Creating filelist for ste_rmi4
+Creating filelist for unisys
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for wlan-ng
+Creating filelist for xgifb
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+148564  lustre          ansic=148564
+74018   comedi          ansic=74018
+51965   rtl8723au       ansic=51965
+44608   rtl8188eu       ansic=44608
+29388   rtl8192e        ansic=29388
+28278   vt6655          ansic=28278
+26981   media           ansic=26981
+25196   iio             ansic=25196
+24123   rtl8192u        ansic=24123
+23774   rtl8712         ansic=23774
+18446   rts5208         ansic=18446
+17486   bcm             ansic=17486
+12009   unisys          ansic=12009
+10233   xgifb           ansic=10233
+10013   android         ansic=10013
+9451    wlan-ng         ansic=9451
+8733    speakup         ansic=8733
+7884    skein           ansic=7884
+5696    ft1000          ansic=5696
+5691    dgnc            ansic=5691
+5636    dgap            ansic=5636
+5449    vt6656          ansic=5449
+4939    ozwpan          ansic=4939
+4747    imx-drm         ansic=4747
+3837    line6           ansic=3837
+3643    slicoss         ansic=3643
+3119    gdm72xx         ansic=3119
+2924    emxx_udc        ansic=2924
+2894    gdm724x         ansic=2894
+2740    octeon-usb      ansic=2740
+2552    fwserial        ansic=2552
+2531    octeon          ansic=2531
+2058    netlogic        ansic=2058
+1722    panel           ansic=1722
+1641    nvec            ansic=1641
+1387    vme             ansic=1387
+867     olpc_dcon       ansic=867
+710     mt29f_spinand   ansic=710
+707     ste_rmi4        ansic=707
+652     goldfish        ansic=652
+464     cptm1217        ansic=464
+431     gs_fpgaboot     ansic=431
+65      board           ansic=65
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       638267 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 638,267
+Development Effort Estimate, Person-Years (Person-Months) = 176.31 (2,115.75)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.82 (45.88)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 46.12
+Total Estimated Cost to Develop                           = $ 23,817,388
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

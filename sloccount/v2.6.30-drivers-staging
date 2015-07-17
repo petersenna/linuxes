@@ -1,0 +1,108 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v2.6.30/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v2.6.30/drivers/staging/Makefile to top_dir
+Creating filelist for agnx
+Creating filelist for altpciechdma
+Creating filelist for android
+Creating filelist for asus_oled
+Creating filelist for at76_usb
+Creating filelist for b3dfg
+Creating filelist for comedi
+Creating filelist for dst
+Creating filelist for echo
+Creating filelist for epl
+Creating filelist for et131x
+Creating filelist for frontier
+Creating filelist for go7007
+Creating filelist for heci
+Creating filelist for line6
+Creating filelist for me4000
+Creating filelist for meilhaus
+Creating filelist for mimio
+Creating filelist for otus
+Creating filelist for p9auth
+Creating filelist for panel
+Creating filelist for phison
+Creating filelist for poch
+Creating filelist for pohmelfs
+Creating filelist for rspiusb
+Creating filelist for rt2860
+Creating filelist for rt2870
+Creating filelist for rt3070
+Creating filelist for rtl8187se
+Creating filelist for serqt_usb
+Creating filelist for slicoss
+Adding /tmp/linuxes/src/./v2.6.30/drivers/staging/staging.c to top_dir
+Creating filelist for stlc45xx
+Creating filelist for sxg
+Creating filelist for uc2322
+Creating filelist for usbip
+Creating filelist for winbond
+Creating filelist for wlan-ng
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+103316  comedi          ansic=103316
+64532   rt3070          ansic=64532
+63303   rt2860          ansic=63303
+62654   rt2870          ansic=62654
+50034   otus            ansic=50034
+28335   meilhaus        ansic=28335
+24643   epl             ansic=24643
+24268   rtl8187se       ansic=24268
+20767   me4000          ansic=20767
+9251    wlan-ng         ansic=9251
+8542    go7007          ansic=8542
+8112    et131x          ansic=8112
+7686    winbond         ansic=7686
+5640    pohmelfs        ansic=5640
+5030    sxg             ansic=5030
+4950    line6           ansic=4950
+4668    at76_usb        ansic=4668
+4461    slicoss         ansic=4461
+4377    heci            ansic=4377
+4320    android         ansic=4320
+3775    agnx            ansic=3775
+3438    usbip           ansic=3438
+2647    dst             ansic=2647
+2451    stlc45xx        ansic=2451
+1979    serqt_usb       ansic=1979
+1815    uc2322          ansic=1815
+1659    panel           ansic=1659
+1397    frontier        ansic=1397
+1126    poch            ansic=1126
+842     echo            ansic=842
+779     b3dfg           ansic=779
+768     rspiusb         ansic=768
+684     altpciechdma    ansic=684
+668     mimio           ansic=668
+563     asus_oled       ansic=563
+286     p9auth          ansic=286
+76      phison          ansic=76
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       533857 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 533,857
+Development Effort Estimate, Person-Years (Person-Months) = 146.16 (1,753.91)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.56 (42.72)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 41.05
+Total Estimated Cost to Develop                           = $ 19,744,121
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

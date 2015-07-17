@@ -1,0 +1,139 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v2.6.35/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v2.6.35/drivers/staging/Makefile to top_dir
+Creating filelist for adis16255
+Creating filelist for asus_oled
+Creating filelist for batman-adv
+Creating filelist for comedi
+Creating filelist for crystalhd
+Creating filelist for cx25821
+Creating filelist for cxt1e1
+Creating filelist for dream
+Creating filelist for dt3155
+Creating filelist for dt3155v4l
+Creating filelist for echo
+Creating filelist for et131x
+Creating filelist for frontier
+Creating filelist for go7007
+Creating filelist for hv
+Creating filelist for iio
+Creating filelist for line6
+Creating filelist for memrar
+Creating filelist for mrst-touchscreen
+Creating filelist for msm
+Creating filelist for octeon
+Creating filelist for otus
+Creating filelist for panel
+Creating filelist for phison
+Creating filelist for pohmelfs
+Creating filelist for quatech_usb2
+Creating filelist for ramzswap
+Creating filelist for rar_register
+Creating filelist for rt2860
+Creating filelist for rt2870
+Creating filelist for rt3070
+Creating filelist for rtl8187se
+Creating filelist for rtl8192e
+Creating filelist for rtl8192su
+Creating filelist for rtl8192u
+Creating filelist for samsung-laptop
+Creating filelist for sep
+Creating filelist for serqt_usb2
+Creating filelist for slicoss
+Creating filelist for sm7xx
+Adding /tmp/linuxes/src/./v2.6.35/drivers/staging/staging.c to top_dir
+Creating filelist for ti-st
+Creating filelist for tm6000
+Creating filelist for udlfb
+Creating filelist for usbip
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for winbond
+Creating filelist for wlags49_h2
+Creating filelist for wlags49_h25
+Creating filelist for wlan-ng
+Creating filelist for xgifb
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+103935  comedi          ansic=103935
+50700   otus            ansic=50700
+47156   rt2860          ansic=47156
+32825   rtl8192e        ansic=32825
+32289   wlags49_h2      ansic=32289
+32206   rtl8192u        ansic=32206
+32163   rtl8192su       ansic=32163
+30116   vt6655          ansic=30116
+29949   dream           ansic=29949
+27351   vt6656          ansic=27351
+22738   msm             ansic=22738
+21411   xgifb           ansic=21411
+15897   octeon          ansic=15897
+15390   rtl8187se       ansic=15390
+14728   iio             ansic=14728
+11785   cx25821         ansic=11785
+10179   wlan-ng         ansic=10179
+9692    hv              ansic=9692
+8569    go7007          ansic=8569
+7706    cxt1e1          ansic=7706
+7202    winbond         ansic=7202
+6588    vme             ansic=6588
+5690    pohmelfs        ansic=5690
+5428    crystalhd       ansic=5428
+5248    line6           ansic=5248
+4847    tm6000          ansic=4847
+4743    batman-adv      ansic=4743
+4573    et131x          ansic=4573
+4447    slicoss         ansic=4447
+3429    usbip           ansic=3429
+2419    rt2870          ansic=2419
+2012    sep             ansic=2012
+1854    ti-st           ansic=1854
+1698    panel           ansic=1698
+1607    dt3155          ansic=1567,sh=40
+1567    sm7xx           ansic=1567
+1397    frontier        ansic=1397
+1375    quatech_usb2    ansic=1375
+1224    serqt_usb2      ansic=1224
+1180    udlfb           ansic=1180
+1109    ramzswap        ansic=1109
+1084    dt3155v4l       ansic=1084
+680     memrar          ansic=680
+604     asus_oled       ansic=604
+586     mrst-touchscreen ansic=586
+458     echo            ansic=458
+378     samsung-laptop  ansic=378
+333     adis16255       ansic=333
+305     rar_register    ansic=305
+76      phison          ansic=76
+34      wlags49_h25     ansic=34
+15      top_dir         ansic=15
+11      rt3070          ansic=11
+
+
+Totals grouped by language (dominant language first):
+ansic:       630946 (99.99%)
+sh:              40 (0.01%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 630,986
+Development Effort Estimate, Person-Years (Person-Months) = 174.20 (2,090.41)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.81 (45.67)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 45.77
+Total Estimated Cost to Develop                           = $ 23,532,189
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

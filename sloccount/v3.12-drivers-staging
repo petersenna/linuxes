@@ -1,0 +1,161 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v3.12/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v3.12/drivers/staging/Makefile to top_dir
+Creating filelist for android
+Creating filelist for bcm
+Creating filelist for btmtk_usb
+Creating filelist for ced1401
+Creating filelist for comedi
+Creating filelist for cptm1217
+Creating filelist for crystalhd
+Creating filelist for cxt1e1
+Creating filelist for dgap
+Creating filelist for dgnc
+Creating filelist for dgrp
+Creating filelist for dwc2
+Creating filelist for echo
+Creating filelist for et131x
+Creating filelist for frontier
+Creating filelist for ft1000
+Creating filelist for fwserial
+Creating filelist for gdm724x
+Creating filelist for gdm72xx
+Creating filelist for goldfish
+Creating filelist for iio
+Creating filelist for imx-drm
+Creating filelist for keucr
+Creating filelist for line6
+Creating filelist for lustre
+Creating filelist for media
+Creating filelist for netlogic
+Creating filelist for nvec
+Creating filelist for octeon
+Creating filelist for octeon-usb
+Creating filelist for olpc_dcon
+Creating filelist for ozwpan
+Creating filelist for panel
+Creating filelist for phison
+Creating filelist for quickstart
+Creating filelist for rtl8187se
+Creating filelist for rtl8188eu
+Creating filelist for rtl8192e
+Creating filelist for rtl8192u
+Creating filelist for rtl8712
+Creating filelist for rts5139
+Creating filelist for sb105x
+Creating filelist for sbe-2t3e3
+Creating filelist for sep
+Creating filelist for serqt_usb2
+Creating filelist for silicom
+Creating filelist for slicoss
+Creating filelist for sm7xxfb
+Creating filelist for speakup
+Adding /tmp/linuxes/src/./v3.12/drivers/staging/staging.c to top_dir
+Creating filelist for ste_rmi4
+Creating filelist for tidspbridge
+Creating filelist for usbip
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for winbond
+Creating filelist for wlags49_h2
+Creating filelist for wlags49_h25
+Creating filelist for wlan-ng
+Creating filelist for xgifb
+Creating filelist for xillybus
+Creating filelist for zram
+Creating filelist for zsmalloc
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+168351  lustre          ansic=168351
+79145   comedi          ansic=79145
+67404   rtl8188eu       ansic=67404
+32349   rtl8192e        ansic=32349
+31237   media           ansic=31237
+30773   wlags49_h2      ansic=30773
+29237   vt6655          ansic=29237
+26957   rtl8192u        ansic=26957
+26722   iio             ansic=26722
+24893   tidspbridge     ansic=24893
+23939   rtl8712         ansic=23939
+22239   vt6656          ansic=22239
+15857   bcm             ansic=15857
+15727   rts5139         ansic=15727
+14098   rtl8187se       ansic=14098
+10262   xgifb           ansic=10262
+9515    wlan-ng         ansic=9515
+8713    speakup         ansic=8713
+8324    dwc2            ansic=8324
+8161    silicom         ansic=8161
+7366    dgap            ansic=7366
+6882    usbip           ansic=6873,sh=9
+6848    cxt1e1          ansic=6848
+6594    android         ansic=6594
+6392    sep             ansic=6392
+6354    dgnc            ansic=6354
+6278    winbond         ansic=6278
+6066    ft1000          ansic=6066
+5619    dgrp            ansic=5619
+5482    crystalhd       ansic=5482
+5265    imx-drm         ansic=5265
+5233    ozwpan          ansic=5233
+5199    ced1401         ansic=5199
+4205    slicoss         ansic=4205
+3934    keucr           ansic=3934
+3814    line6           ansic=3814
+3393    gdm72xx         ansic=3393
+3248    sb105x          ansic=3248
+3233    et131x          ansic=3233
+3040    sbe-2t3e3       ansic=3040
+2980    octeon-usb      ansic=2980
+2854    gdm724x         ansic=2854
+2627    fwserial        ansic=2627
+2483    octeon          ansic=2483
+2025    xillybus        ansic=2025
+2020    netlogic        ansic=2020
+1704    panel           ansic=1704
+1639    nvec            ansic=1639
+1491    sm7xxfb         ansic=1491
+1411    vme             ansic=1411
+1375    btmtk_usb       ansic=1375
+1358    frontier        ansic=1358
+1131    serqt_usb2      ansic=1131
+866     olpc_dcon       ansic=866
+799     zram            ansic=799
+709     ste_rmi4        ansic=709
+673     goldfish        ansic=673
+663     zsmalloc        ansic=663
+484     echo            ansic=484
+469     cptm1217        ansic=469
+314     quickstart      ansic=314
+67      phison          ansic=67
+32      wlags49_h25     ansic=32
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       788528 (100.00%)
+sh:               9 (0.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 788,537
+Development Effort Estimate, Person-Years (Person-Months) = 220.14 (2,641.64)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 4.16 (49.92)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 52.92
+Total Estimated Cost to Develop                           = $ 29,737,524
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

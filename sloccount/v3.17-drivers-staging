@@ -1,0 +1,130 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v3.17/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v3.17/drivers/staging/Makefile to top_dir
+Creating filelist for android
+Creating filelist for bcm
+Creating filelist for board
+Creating filelist for comedi
+Creating filelist for cptm1217
+Creating filelist for dgap
+Creating filelist for dgnc
+Creating filelist for emxx_udc
+Creating filelist for et131x
+Creating filelist for ft1000
+Creating filelist for fwserial
+Creating filelist for gdm724x
+Creating filelist for gdm72xx
+Creating filelist for goldfish
+Creating filelist for gs_fpgaboot
+Creating filelist for iio
+Creating filelist for imx-drm
+Creating filelist for line6
+Creating filelist for lustre
+Creating filelist for media
+Creating filelist for mt29f_spinand
+Creating filelist for netlogic
+Creating filelist for nokia_h4p
+Creating filelist for nvec
+Creating filelist for octeon
+Creating filelist for octeon-usb
+Creating filelist for olpc_dcon
+Creating filelist for ozwpan
+Creating filelist for panel
+Creating filelist for rtl8188eu
+Creating filelist for rtl8192e
+Creating filelist for rtl8192ee
+Creating filelist for rtl8192u
+Creating filelist for rtl8712
+Creating filelist for rtl8723au
+Creating filelist for rtl8821ae
+Creating filelist for rts5208
+Creating filelist for skein
+Creating filelist for slicoss
+Creating filelist for speakup
+Adding /tmp/linuxes/src/./v3.17/drivers/staging/staging.c to top_dir
+Creating filelist for ste_rmi4
+Creating filelist for unisys
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for wlan-ng
+Creating filelist for xgifb
+Creating filelist for xillybus
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+158146  lustre          ansic=158146
+75330   comedi          ansic=75330
+57765   rtl8821ae       ansic=57765
+51999   rtl8723au       ansic=51999
+45585   rtl8188eu       ansic=45585
+41036   rtl8192ee       ansic=41036
+29433   rtl8192e        ansic=29433
+29172   media           ansic=29172
+28455   vt6655          ansic=28455
+25940   iio             ansic=25940
+24522   rtl8192u        ansic=24522
+23788   rtl8712         ansic=23788
+18463   rts5208         ansic=18463
+17486   bcm             ansic=17486
+12206   unisys          ansic=12206
+10246   xgifb           ansic=10246
+10038   android         ansic=10038
+9494    wlan-ng         ansic=9494
+8727    speakup         ansic=8727
+7884    skein           ansic=7884
+6027    dgnc            ansic=6027
+5765    dgap            ansic=5765
+5707    ft1000          ansic=5707
+5462    vt6656          ansic=5462
+5214    ozwpan          ansic=5214
+4743    imx-drm         ansic=4743
+3835    line6           ansic=3835
+3644    slicoss         ansic=3644
+3141    et131x          ansic=3141
+3121    gdm72xx         ansic=3121
+2937    emxx_udc        ansic=2937
+2891    gdm724x         ansic=2891
+2759    octeon-usb      ansic=2759
+2552    fwserial        ansic=2552
+2537    octeon          ansic=2537
+2024    netlogic        ansic=2024
+1861    xillybus        ansic=1861
+1722    panel           ansic=1722
+1663    nokia_h4p       ansic=1663
+1641    nvec            ansic=1641
+1410    vme             ansic=1410
+867     olpc_dcon       ansic=867
+712     mt29f_spinand   ansic=712
+707     ste_rmi4        ansic=707
+652     goldfish        ansic=652
+549     gs_fpgaboot     ansic=549
+464     cptm1217        ansic=464
+65      board           ansic=65
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       760402 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 760,402
+Development Effort Estimate, Person-Years (Person-Months) = 211.90 (2,542.77)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 4.10 (49.20)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 51.68
+Total Estimated Cost to Develop                           = $ 28,624,442
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

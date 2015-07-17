@@ -1,0 +1,136 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v2.6.33/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v2.6.33/drivers/staging/Makefile to top_dir
+Creating filelist for altpciechdma
+Creating filelist for arlan
+Creating filelist for asus_oled
+Creating filelist for b3dfg
+Creating filelist for batman-adv
+Creating filelist for comedi
+Creating filelist for cx25821
+Creating filelist for dream
+Creating filelist for echo
+Creating filelist for et131x
+Creating filelist for frontier
+Creating filelist for go7007
+Creating filelist for hv
+Creating filelist for iio
+Creating filelist for line6
+Creating filelist for mimio
+Creating filelist for netwave
+Creating filelist for octeon
+Creating filelist for otus
+Creating filelist for p9auth
+Creating filelist for panel
+Creating filelist for phison
+Creating filelist for poch
+Creating filelist for pohmelfs
+Creating filelist for quatech_usb2
+Creating filelist for ramzswap
+Creating filelist for rar
+Creating filelist for rt2860
+Creating filelist for rt2870
+Creating filelist for rt3070
+Creating filelist for rt3090
+Creating filelist for rtl8187se
+Creating filelist for rtl8192e
+Creating filelist for rtl8192su
+Creating filelist for rtl8192u
+Creating filelist for samsung-laptop
+Creating filelist for sep
+Creating filelist for serqt_usb2
+Creating filelist for slicoss
+Creating filelist for sm7xx
+Adding /tmp/linuxes/src/./v2.6.33/drivers/staging/staging.c to top_dir
+Creating filelist for strip
+Creating filelist for udlfb
+Creating filelist for usbip
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for wavelan
+Creating filelist for winbond
+Creating filelist for wlags49_h2
+Creating filelist for wlags49_h25
+Creating filelist for wlan-ng
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+104679  comedi          ansic=104679
+49721   otus            ansic=49721
+48228   rt2860          ansic=48228
+34917   rtl8192su       ansic=34917
+32442   wlags49_h2      ansic=32442
+32043   rtl8192e        ansic=32043
+31838   rtl8192u        ansic=31838
+30136   vt6655          ansic=30136
+30123   dream           ansic=30123
+26222   vt6656          ansic=26222
+16161   rtl8187se       ansic=16161
+15905   octeon          ansic=15905
+11826   cx25821         ansic=11826
+10171   wlan-ng         ansic=10171
+9431    hv              ansic=9431
+8567    go7007          ansic=8567
+7523    iio             ansic=7523
+7468    winbond         ansic=7468
+6927    wavelan         ansic=6927
+6723    vme             ansic=6723
+5683    pohmelfs        ansic=5683
+5243    line6           ansic=5243
+5195    et131x          ansic=5195
+4459    slicoss         ansic=4459
+4410    batman-adv      ansic=4410
+3470    usbip           ansic=3470
+3010    arlan           ansic=3010
+2763    sm7xx           ansic=2763
+2419    rt2870          ansic=2419
+1979    sep             ansic=1979
+1785    strip           ansic=1785
+1700    panel           ansic=1700
+1512    ramzswap        ansic=1512
+1395    frontier        ansic=1395
+1375    quatech_usb2    ansic=1375
+1224    serqt_usb2      ansic=1224
+1108    poch            ansic=1108
+835     udlfb           ansic=835
+833     netwave         ansic=833
+764     b3dfg           ansic=764
+677     altpciechdma    ansic=677
+668     mimio           ansic=668
+598     asus_oled       ansic=598
+524     rt3070          ansic=524
+513     rt3090          ansic=513
+458     echo            ansic=458
+372     samsung-laptop  ansic=372
+309     p9auth          ansic=309
+264     rar             ansic=264
+76      phison          ansic=76
+34      wlags49_h25     ansic=34
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       576721 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 576,721
+Development Effort Estimate, Person-Years (Person-Months) = 158.51 (1,902.06)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.67 (44.06)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 43.17
+Total Estimated Cost to Develop                           = $ 21,411,923
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

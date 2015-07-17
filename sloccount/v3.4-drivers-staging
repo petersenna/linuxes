@@ -1,0 +1,143 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /tmp/linuxes/src/./v3.4/drivers/staging/Kconfig to top_dir
+Adding /tmp/linuxes/src/./v3.4/drivers/staging/Makefile to top_dir
+Creating filelist for android
+Creating filelist for asus_oled
+Creating filelist for bcm
+Creating filelist for comedi
+Creating filelist for cptm1217
+Creating filelist for crystalhd
+Creating filelist for cxt1e1
+Creating filelist for echo
+Creating filelist for et131x
+Creating filelist for frontier
+Creating filelist for ft1000
+Creating filelist for iio
+Creating filelist for keucr
+Creating filelist for line6
+Creating filelist for media
+Creating filelist for mei
+Creating filelist for nvec
+Creating filelist for octeon
+Creating filelist for olpc_dcon
+Creating filelist for omapdrm
+Creating filelist for ozwpan
+Creating filelist for panel
+Creating filelist for phison
+Creating filelist for quatech_usb2
+Creating filelist for quickstart
+Creating filelist for ramster
+Creating filelist for rtl8187se
+Creating filelist for rtl8192e
+Creating filelist for rtl8192u
+Creating filelist for rtl8712
+Creating filelist for rts5139
+Creating filelist for rts_pstor
+Creating filelist for sbe-2t3e3
+Creating filelist for sep
+Creating filelist for serial
+Creating filelist for serqt_usb2
+Creating filelist for slicoss
+Creating filelist for sm7xx
+Creating filelist for speakup
+Adding /tmp/linuxes/src/./v3.4/drivers/staging/staging.c to top_dir
+Creating filelist for ste_rmi4
+Creating filelist for telephony
+Creating filelist for tidspbridge
+Creating filelist for usbip
+Creating filelist for vme
+Creating filelist for vt6655
+Creating filelist for vt6656
+Creating filelist for winbond
+Creating filelist for wlags49_h2
+Creating filelist for wlags49_h25
+Creating filelist for wlan-ng
+Creating filelist for xgifb
+Creating filelist for zcache
+Creating filelist for zram
+Creating filelist for zsmalloc
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+108116  comedi          ansic=108116
+43887   iio             ansic=43887
+33229   rtl8192e        ansic=33229
+31194   media           ansic=31194
+30913   wlags49_h2      ansic=30913
+29869   vt6655          ansic=29869
+27528   rtl8192u        ansic=27528
+26178   vt6656          ansic=26178
+24977   tidspbridge     ansic=24977
+24634   rtl8712         ansic=24634
+19090   rts_pstor       ansic=19090
+16970   bcm             ansic=16970
+16761   rts5139         ansic=16761
+15002   rtl8187se       ansic=15002
+13367   xgifb           ansic=13367
+10204   telephony       ansic=10204
+9542    wlan-ng         ansic=9542
+8798    speakup         ansic=8798
+7585    ramster         ansic=7585
+7490    vme             ansic=7490
+7096    cxt1e1          ansic=7096
+6980    usbip           ansic=6971,sh=9
+6499    sep             ansic=6499
+6391    line6           ansic=6391
+6271    winbond         ansic=6271
+6256    android         ansic=6256
+6117    ft1000          ansic=6117
+5494    ozwpan          ansic=5494
+5375    crystalhd       ansic=5375
+4662    omapdrm         ansic=4662
+4370    slicoss         ansic=4370
+4169    mei             ansic=4169
+3953    keucr           ansic=3953
+3392    et131x          ansic=3392
+3188    sbe-2t3e3       ansic=3188
+2449    octeon          ansic=2449
+2356    zcache          ansic=2356
+1836    serial          ansic=1836
+1720    panel           ansic=1720
+1607    nvec            ansic=1607
+1572    sm7xx           ansic=1572
+1371    frontier        ansic=1371
+1348    quatech_usb2    ansic=1348
+1192    serqt_usb2      ansic=1192
+904     olpc_dcon       ansic=904
+873     zram            ansic=873
+751     ste_rmi4        ansic=751
+605     asus_oled       ansic=605
+586     zsmalloc        ansic=586
+479     cptm1217        ansic=479
+456     echo            ansic=456
+317     quickstart      ansic=317
+76      phison          ansic=76
+34      wlags49_h25     ansic=34
+15      top_dir         ansic=15
+
+
+Totals grouped by language (dominant language first):
+ansic:       606085 (100.00%)
+sh:               9 (0.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 606,094
+Development Effort Estimate, Person-Years (Person-Months) = 166.99 (2,003.91)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 3.75 (44.94)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 44.59
+Total Estimated Cost to Develop                           = $ 22,558,416
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
