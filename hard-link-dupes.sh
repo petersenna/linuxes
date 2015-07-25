@@ -47,3 +47,11 @@ echo Fixing minor issues caused by hard linking dupes...
 file_list=$(git status |grep modified|grep "src/v"|tr -s " "|cut -d " " -f 2|tr "\n" " ")
 echo $file_list
 git checkout -- $file_list
+
+echo creating a file with a list of unique files at src folder...
+OUT_FILE=./src/unique_file_list
+./unique_file_list.py > $OUT_FILE
+echo Number of unique files:
+cat $OUT_FILE|wc -l
+echo Total number of files:
+cat $OUT_FILE|tr "|" "\n"|wc -l
