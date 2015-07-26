@@ -42,5 +42,5 @@ for tag in $(git tag |cut -d "-" -f 1|sort -u);do
         fi
 done
 
-# This may be a good place to call it
-# ./hard-link-dupes.sh
+# This is a good idea so the unique_file_list file is created
+./hard-link-dupes.sh
