@@ -9,9 +9,6 @@ DIR=$PWD/src
 # Linus tree
 GIT=$PWD/linux
 
-# Folder to save SLOCCount statistics
-SLC=$PWD/sloccount
-
 if [ -f $GIT/MAINTAINERS ];then
 	git submodule update
 else
@@ -31,10 +28,7 @@ for tag in $(git tag |cut -d "-" -f 1|sort -u);do
                 mkdir -p $DIR/$tag
 
                 git --work-tree=$DIR/$tag checkout $tag -- .
-                if [ $? == 0 ];then
-			echo Running sloccount for $tag
-			sloccount $DIR/$tag > $SLC/$tag
-		else
+                if [ $? != 0 ];then
                         echo Something went wrong with $tag. This may be normal for the last tag...
                         echo Deleting $DIR/$tag
                         rm -rf $DIR/$tag
