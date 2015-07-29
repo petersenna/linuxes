@@ -18,10 +18,22 @@ sloccount - one text file with output from sloccount for each Linux version
 
 src       - one folder for each Linux version since v2.6.11.
 
+src/unique_file_list - text file containing a list of repeated files. The
+                       number of lines equals the number of unique files
+                       and for each line, multiple files with same content
+                       are separeted by a pipe "|". This file is generated
+                       by unique_file_list.py but it only works after
+                       running hard-link-dupes.sh
+
 README    - This file.
 
 hard-link-dupes.sh - script that convert duplicate files into hard links.
                      Can save 10G+ of disk space but read the warnings on
-                     the scripts before using it.
+                     the script before using it.
+
+unique_file_list.py - Creates the file src/unique_file_list. Identical
+                      files are identified by the inode number. This
+                      works as hard links are created by
+                      hard-link-dupes.sh
 
 update.sh - script that keep everuthing up to date.
