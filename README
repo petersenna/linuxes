@@ -11,10 +11,9 @@ Folders and files:
 
 linux     - Linus tree as a git submodule
 
-sloccount - one text file with output from sloccount for each Linux version
-            since v2.6.11. The files are here as it takes a lot of time to
-            generate the files and  it is not easy to run sloccount in
-            parallel.
+linuxes-data - external repository with data I'm collecting on the source
+               code. Some GB of stuff like sloccount and some semantic
+               information
 
 src       - one folder for each Linux version since v2.6.11.
 
