@@ -1,9 +1,8 @@
 #!/usr/bin/python
+# Peter Senna Tschudin <peter.senna@gmail.com>
 
-"""
-Creates a text file containing a list of unique files with all the
-files with same content.
-"""
+"""Creates a text file containing a list of unique files with all the
+files with same content."""
 
 import subprocess
 
