@@ -11,10 +11,6 @@ Folders and files:
 
 linux     - Linus tree as a git submodule
 
-linuxes-data - external repository with data I'm collecting on the source
-               code. Some GB of stuff like sloccount and some semantic
-               information
-
 src       - one folder for each Linux version since v2.6.11.
 
 src/unique_file_list - text file containing a list of repeated files. The
